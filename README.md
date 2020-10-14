@@ -5,4 +5,4 @@ for visualizing eval metrics.
 
 ## Metrics
 
-<img src="https://yamgal-server-c6l3dwv2sq-de.a.run.app/line/loss:[.08,.06];accuracy:[.98,1]/title:TrainingLogs;style:neon" alt="eval_metrics" height="600" width="800" >
+<img src="https://yamgal-server-c6l3dwv2sq-de.a.run.app/line/loss:[.08,.06,.11];accuracy:[.98,1,.44]/title:TrainingLogs;style:neon" alt="eval_metrics" height="600" width="800" >
