@@ -9,4 +9,4 @@ for visualizing eval metrics.
 
 ## Eval
 
-<img src="https://yamgal-server-c6l3dwv2sq-de.a.run.app/line/loss:[.11,.11,.11];accuracy:[.44,.44,.44]/title:TrainingLogs;style:neon" alt="eval_metrics" height="600" width="800" >
+<img src="https://yamgal-server-c6l3dwv2sq-de.a.run.app/line/loss:[.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11,.11];accuracy:[.44,.44,.44,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1]/title:TrainingLogs;style:neon" alt="eval_metrics" height="600" width="800" >
